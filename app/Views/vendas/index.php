@@ -1,0 +1,1 @@
+Vendas view placeholder
