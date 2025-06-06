@@ -1,0 +1,1 @@
+Revendas view placeholder
